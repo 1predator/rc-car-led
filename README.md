@@ -1,3 +1,4 @@
+## fuse Led-rc_car
 기존의 방향을 조종할 수 있던 rc카에서 led를 추가해서 디자인하고 회로를 연결했다.
 ledrpin이라는 변수와 ledlpin이라는 변수를 추가했다.
 오른쪽으로 움직일 수 있도록 코딩한 부분에 ledrpin이 켜지고, ledlpin이 꺼지도록 코딩했다.
